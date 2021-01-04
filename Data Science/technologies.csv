@@ -1,0 +1,51 @@
+Technology,Category
+Python,Programming
+R,Programming
+SQL,Database
+Java,Programming
+JavaScript,Programming
+C,Programming
+Scala,Programming
+Julia,Programming
+SAS,Programming
+MATLAB,Programming
+Matplotlib,Visualization
+Seaborn,Visualization
+Bokeh,Visualization
+Plotly,Visualization
+ggplot,Visualization
+Numpy,Data Analysis
+Scipy,Data Modeling
+Pandas,Data Analysis
+Scikit-Learn,Data Modeling
+Keras,Data Modeling
+PyTorch,Data Modeling
+XGBoost,Data Modeling
+Tensorflow,Data Modeling
+AWS,Cloud Computing
+Azure,Cloud Computing
+Haskel,Programming
+Swift,Programming
+Octave,Programming
+Perl,Programming
+Lisp,Programming
+Excel,Data Tools
+Power BI,Data Tools
+Tableau,Data Tools
+Google Cloud,Cloud Computing
+Spark,Distributed Systems
+Hadoop,Distributed Systems
+Git,Version Control
+SPSS,Data Tools
+Stata,Data Tools
+Pig,Distributed Systems
+Hbase,Distributed Systems
+Docker,Containers
+Kubernetes,Containers
+Statsmodels,Data Modeling
+NLTK,Data Modeling
+Scrapy,Web Scraping
+Beautiful Soup,Web Scraping
+Selenium,Web Scraping
+Github,Version Control
+NoSQL,Database
