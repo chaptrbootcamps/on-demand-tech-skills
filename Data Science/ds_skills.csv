@@ -44,8 +44,8 @@ Docker,Containers
 Kubernetes,Containers
 Statsmodels,Data Modeling
 NLTK,Data Modeling
-Scrapy,Web Scraping
-Beautiful Soup,Web Scraping
-Selenium,Web Scraping
+Bitbucket, Version Control
 Github,Version Control
+Gitlab, Version Control
 NoSQL,Database
+Hive, Distributed Systems
