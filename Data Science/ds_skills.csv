@@ -17,7 +17,7 @@ ggplot,Visualization
 Numpy,Data Analysis
 Scipy,Data Modeling
 Pandas,Data Analysis
-Scikit,Data Modeling
+Scikit Learn,Data Modeling
 Keras,Data Modeling
 PyTorch,Data Modeling
 XGBoost,Data Modeling
@@ -30,9 +30,9 @@ Octave,Programming
 Perl,Programming
 Lisp,Programming
 Excel,Data Tools
-Power,Data Tools
+Power BI,Data Tools
 Tableau,Data Tools
-Google,Cloud Computing
+Google Cloud,Cloud Computing
 Spark,Distributed Systems
 Hadoop,Distributed Systems
 Git,Version Control
@@ -45,7 +45,7 @@ Kubernetes,Containers
 Statsmodels,Data Modeling
 NLTK,Data Modeling
 Scrapy,Web Scraping
-Beautiful,Web Scraping
+Beautiful Soup,Web Scraping
 Selenium,Web Scraping
 Github,Version Control
 NoSQL,Database
