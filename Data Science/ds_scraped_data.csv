@@ -1,51 +1,51 @@
 ,Skill,Category,total_jobs,indeed,simply,career
-0,python,programming,11721,3640,2707,901
-1,r,programming,11721,2474,1814,1091
-2,sql,database,11721,2629,1986,696
-3,java,programming,11721,1070,765,363
-4,javascript,programming,11721,276,179,106
-5,c,programming,11721,425,325,495
-6,scala,programming,11721,645,453,173
-7,julia,programming,11721,65,60,4
-8,sas,programming,11721,723,534,174
-9,matlab,programming,11721,449,319,107
-10,matplotlib,visualization,11721,128,94,30
-11,seaborn,visualization,11721,40,29,12
-12,bokeh,visualization,11721,84,46,0
-13,plotly,visualization,11721,56,53,6
-14,ggplot,visualization,11721,87,72,25
-15,numpy,data analysis,11721,307,227,71
-16,scipy,data modeling,11721,156,122,31
-17,pandas,data analysis,11721,363,293,68
-18,scikit learn,data modeling,11721,426,288,54
-19,keras,data modeling,11721,273,214,65
-20,pytorch,data modeling,11721,406,303,48
-21,xgboost,data modeling,11721,65,47,15
-22,tensorflow,data modeling,11721,683,526,114
-23,aws,cloud computing,11721,1107,788,285
-24,azure,cloud computing,11721,487,392,169
-25,haskel,programming,11721,1,1,0
-26,swift,programming,11721,10,9,1
-27,octave,programming,11721,40,13,1
-28,perl,programming,11721,106,91,53
-29,lisp,programming,11721,2,2,1
-30,excel,data tools,11721,507,411,575
-31,power bi,data tools,11721,241,201,52
-32,tableau,data tools,11721,1081,755,291
-33,google cloud,cloud computing,11721,179,121,46
-34,spark,distributed systems,11721,1238,926,313
-35,hadoop,distributed systems,11721,885,690,278
-36,git,version control,11721,259,218,109
-37,spss,data tools,11721,165,131,23
-38,stata,data tools,11721,62,55,11
-39,pig,distributed systems,11721,143,108,63
-40,hbase,distributed systems,11721,105,87,37
-41,docker,containers,11721,281,191,117
-42,kubernetes,containers,11721,188,155,74
-43,statsmodels,data modeling,11721,35,24,3
-44,nltk,data modeling,11721,42,38,14
-45,scrapy,web scraping,11721,2,2,0
-46,beautiful soup,web scraping,11721,1,1,0
-47,selenium,web scraping,11721,7,7,8
-48,github,version control,11721,172,137,47
-49,nosql,database,11721,323,265,106
+0,python,programming,11666,3621,2710,889
+1,r,programming,11666,2458,1814,1081
+2,sql,database,11666,2623,1995,694
+3,java,programming,11666,1059,762,339
+4,javascript,programming,11666,273,177,104
+5,c,programming,11666,415,319,490
+6,scala,programming,11666,640,453,152
+7,julia,programming,11666,64,61,4
+8,sas,programming,11666,720,534,168
+9,matlab,programming,11666,444,320,107
+10,matplotlib,visualization,11666,128,94,30
+11,seaborn,visualization,11666,40,29,12
+12,bokeh,visualization,11666,84,46,6
+13,plotly,visualization,11666,56,53,6
+14,ggplot,visualization,11666,87,72,25
+15,numpy,data analysis,11666,302,225,71
+16,scipy,data modeling,11666,151,120,31
+17,pandas,data analysis,11666,364,296,68
+18,scikit learn,data modeling,11666,415,285,54
+19,keras,data modeling,11666,271,216,54
+20,pytorch,data modeling,11666,403,304,48
+21,xgboost,data modeling,11666,65,47,15
+22,tensorflow,data modeling,11666,678,526,103
+23,aws,cloud computing,11666,1104,794,286
+24,azure,cloud computing,11666,490,397,169
+25,haskel,programming,11666,1,1,0
+26,swift,programming,11666,10,9,1
+27,octave,programming,11666,40,13,1
+28,perl,programming,11666,105,90,53
+29,lisp,programming,11666,2,2,1
+30,excel,data tools,11666,494,405,577
+31,power bi,data tools,11666,244,204,52
+32,tableau,data tools,11666,1069,753,291
+33,google cloud,cloud computing,11666,181,123,46
+34,spark,distributed systems,11666,1230,931,298
+35,hadoop,distributed systems,11666,884,695,270
+36,git,version control,11666,255,218,110
+37,spss,data tools,11666,166,132,24
+38,stata,data tools,11666,59,54,11
+39,pig,distributed systems,11666,140,108,62
+40,hbase,distributed systems,11666,104,87,37
+41,docker,containers,11666,280,192,117
+42,kubernetes,containers,11666,188,155,74
+43,statsmodels,data modeling,11666,35,24,3
+44,nltk,data modeling,11666,44,41,14
+45,bitbucket,version control,11666,29,29,9
+46,github,version control,11666,173,136,47
+47,gitlab,version control,11666,25,23,6
+48,nosql,database,11666,327,270,107
+49,hive,distributed systems,11666,462,350,165
