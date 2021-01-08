@@ -1,0 +1,61 @@
+,Skill,Category,total_jobs,indeed,simply,career
+0,javascript,programming,33411,5141,4001,4787
+1,python,programming,33411,1683,1350,2233
+2,java,programming,33411,2359,1883,5192
+3,scala,programming,33411,93,73,195
+4,rust,programming,33411,31,26,13
+5,c,programming,33411,778,597,3282
+6,go,programming,33411,733,633,1206
+7,php,programming,33411,1320,1153,535
+8,ruby,programming,33411,617,497,504
+9,swift,programming,33411,157,100,147
+10,bash,programming,33411,197,155,387
+11,html,web,33411,3760,3024,4016
+12,css,web,33411,3787,3017,3443
+13,sass,web,33411,477,391,344
+14,markdown,general,33411,5,5,11
+15,aws,cloud,33411,1404,1140,2638
+16,azure,cloud,33411,822,673,1966
+17,google cloud,cloud,33411,132,122,450
+18,react,frontend,33411,2210,1633,1879
+19,angular,frontend,33411,1892,1380,2257
+20,vue,frontend,33411,601,500,390
+21,heroku,hosting,33411,51,44,39
+22,netlify,hosting,33411,1,1,4
+23,github pages,hosting,33411,2,2,14
+24,firebase,hosting,33411,21,19,28
+25,git,general,33411,1770,1477,2351
+26,github,version control,33411,430,375,538
+27,bitbucket,version control,33411,213,164,305
+28,gitlab,version control,33411,162,140,191
+29,wordpress,cms,33411,920,830,217
+30,strapi,cms,33411,2,2,0
+31,contentful,cms,33411,15,13,7
+32,figma,design,33411,89,77,54
+33,adobe xd,design,33411,85,59,45
+34,sql,general,33411,2808,2320,5196
+35,nosql,general,33411,441,348,926
+36,mongo,database,33411,95,74,133
+37,mysql,database,33411,1019,853,832
+38,postgresql,database,33411,386,319,478
+39,maria,database,33411,8,5,12
+40,oracle 12c,database,33411,16,11,19
+41,microsft sql,database,33411,0,0,0
+42,db2,database,33411,70,57,287
+43,graphql,api,33411,170,155,178
+44,sockets,general,33411,20,17,65
+45,digital ocean,hosting,33411,4,4,2
+46,cpanel,hosting,33411,20,14,4
+47,docker,container,33411,710,558,1111
+48,kubernetes,container,33411,477,355,707
+49,nginx,server,33411,108,94,121
+50,apache,server,33411,379,331,810
+51,rest,api,33411,1432,1134,3084
+52,django,backend,33411,274,211,127
+53,ruby on rails,backend,33411,242,196,164
+54,node,backend,33411,966,795,1183
+55,laravel,backend,33411,140,120,50
+56,flask,backend,33411,114,85,96
+57,cloudflare,general,33411,10,9,3
+58,nextjs,rendering,33411,12,11,11
+59,gatsby,rendering,33411,29,26,0
