@@ -1,3 +1,61 @@
 Skill,Category
 JavaScript,Programming
 Python,Programming
+Java,Programming
+Scala,Programming
+Rust,Programming
+C,Programming
+Go,Programming
+Php,Programming
+Ruby,Programming
+Swift,Programming
+Bash,Programming
+HTML,Web
+CSS,Web
+SASS,Web
+Markdown,General
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+React,Frontend
+Angular,Frontend
+Vue,Frontend
+Heroku,Hosting
+Netlify,Hosting
+Github Pages,Hosting
+Firebase,Hosting
+Git,General
+Github,Version Control
+Bitbucket,Version Control
+Gitlab,Version Control
+WordPress,CMS
+Strapi,CMS
+Contentful,CMS
+Figma,Design
+Adobe XD,Design
+SQL,General
+NoSQL,General
+Mongo,Database
+MySQL,Database
+PostgreSQL,Database
+Maria,Database
+Oracle 12c,Database
+Microsft SQL,Database
+DB2,Database
+GraphQL,API
+Sockets,General
+Digital Ocean,Hosting
+Cpanel,Hosting
+Docker,Container
+Kubernetes,Container
+NGINX,Server
+Apache,Server
+REST,API
+Django,Backend
+Ruby on Rails,Backend
+Node,Backend
+Laravel,Backend
+Flask,Backend
+Cloudflare,General
+NextJS,Rendering
+Gatsby,Rendering
